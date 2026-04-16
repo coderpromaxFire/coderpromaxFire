@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Komal Bavoria  
 
 💻 B.Tech IT student at NIT Srinagar  
-🚀 Full Stack Developer (Node.js)  
+🚀 Full Stack Developer 
 
 ## 🌱 What I Do
 - Develop real-time applications  
