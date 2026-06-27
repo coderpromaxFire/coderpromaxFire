@@ -1,29 +1,31 @@
 # Hi there, I'm Komal Bavoria 👋
 
-## 💻 Aspiring Software Development Engineer | Full Stack Developer
+## 💻 Software Developer | Full Stack Developer | AI & GenAI Enthusiast
 
-I'm a B.Tech Information Technology student at NIT Srinagar who enjoys building scalable web applications, solving DSA problems, and continuously learning modern software development.
+🎓 B.Tech Information Technology student at NIT Srinagar passionate about building scalable software, intelligent applications, and solving real-world problems through technology.
 
-I love transforming ideas into real-world products by writing clean, maintainable, and efficient code.
+I enjoy developing full-stack applications, backend systems, and AI-powered solutions while continuously improving my problem-solving and software engineering skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Information Technology at NIT Srinagar
-- 💡 Passionate about Software Development & Problem Solving
-- 🌱 Currently exploring Backend Development, System Design, and scalable applications
-- 💻 Strong interest in Full Stack Development
-- ⚡ Always learning new technologies and improving coding skills
+- 🎓 B.Tech in Information Technology @ NIT Srinagar
+- 💻 Aspiring Software Development Engineer (SDE)
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- ✨ Exploring Generative AI and LLM-powered applications
+- 🌱 Always learning new technologies and building practical projects
+- ⚡ Passionate about clean code, scalable systems, and impactful products
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript
-- C++
 - C
+- C++
+- Python
+- JavaScript
 
 ### Frontend
 - HTML5
@@ -36,8 +38,19 @@ I love transforming ideas into real-world products by writing clean, maintainabl
 
 ### Database
 - Firebase Realtime Database
+- MongoDB
 
-### Tools & Technologies
+### AI / ML
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Machine Learning
+- Generative AI
+- Prompt Engineering
+- Large Language Models (LLMs)
+
+### Tools & Platforms
 - Git
 - GitHub
 - VS Code
@@ -46,62 +59,81 @@ I love transforming ideas into real-world products by writing clean, maintainabl
 
 ---
 
-## 💼 What I Build
+## 💼 Areas of Interest
+
+- Software Development
+- Full Stack Web Development
+- Backend Engineering
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- REST API Development
+- Problem Solving
+- System Design
+
+---
+
+## 🚀 What I Build
 
 - 🌐 Full Stack Web Applications
-- 🔥 Real-time Applications
-- 📱 Responsive Websites
-- ⚙️ REST APIs
-- 🎯 Backend Systems
-- 💡 Problem-Solving Projects
+- ⚙️ Backend APIs
+- 🤖 AI-powered Applications
+- 💬 Real-time Applications
+- 📊 Data-driven Projects
+- 🔥 Intelligent Web Solutions
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Node.js
-- Authentication & Authorization
-- MongoDB
-- SQL
+- Advanced Backend Development
 - System Design
+- Cloud Computing
 - Data Structures & Algorithms
+- AI Agents
+- RAG Applications
+- Advanced Machine Learning
 
 ---
 
 ## 🤝 Looking to Collaborate On
 
-- Full Stack Projects
-- Backend Development
 - Open Source
-- REST API Development
-- Innovative Software Projects
+- Full Stack Projects
+- AI/ML Projects
+- Generative AI Applications
+- Backend Systems
+- Innovative Software Solutions
 
 ---
 
 ## 🎯 Career Goal
 
-To become a Software Development Engineer who builds scalable, reliable, and impactful software while continuously learning and solving real-world problems.
+To become a Software Development Engineer who builds scalable software and AI-driven products that solve meaningful real-world problems.
 
 ---
 
 ## 📈 What You'll Find Here
 
 - Full Stack Projects
-- Backend APIs
+- AI & Machine Learning Projects
+- Generative AI Experiments
+- Backend Development
 - DSA Solutions
 - College Projects
-- Web Development Experiments
 - Learning Journey
 
 ---
 
-## 💡 Philosophy
+## 💡 Motto
 
-> **"First solve the problem. Then write clean, maintainable, and scalable code."**
+> *"Building software that is scalable, intelligent, and impactful."*
 
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
+
+---
 <!---
 coderpromaxFire/coderpromaxFire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
